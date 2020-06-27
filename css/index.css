@@ -53,12 +53,13 @@ video {
 
 .btn-enter {
     width: 230px;
-    margin: 0 auto;
+    margin: 10px;
     border: 1px solid;
     border-radius: 36px;
     padding: 8px;
     font-size: 20px;
     cursor: pointer;
+    display: inline-block;
 }
 
 .btn-enter:hover {
