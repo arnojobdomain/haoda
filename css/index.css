@@ -34,6 +34,7 @@ video {
     width: 68%;
     margin: 10% auto 0;
     font-size: 60px;
+    line-height: 30px;
 }
 
 .child-title {
