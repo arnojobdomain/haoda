@@ -1,6 +1,6 @@
 (function(w) {
     function enterLine() {
-        let enterUrl = 'http://www.haoda.net';
+        let enterUrl = 'http://www.haoda1.net';
         document.getElementById("btnEnter").onclick = function() {
             window.open(enterUrl, "_blank");
         }
