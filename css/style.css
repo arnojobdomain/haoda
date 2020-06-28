@@ -107,7 +107,7 @@ ul {
         bottom: 0;
         right: 0;
         background-color: rgba(0, 0, 0, 0.8);
-        overflow-y: hidden;
+        overflow-y: auto;
         transition: .5s;
     }
     .overlay-content {
