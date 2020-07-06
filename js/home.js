@@ -9,6 +9,9 @@
         document.getElementById("btnEnter3").onclick = function() {
             window.open('http://www.haoda3.net', "_blank");
         }
+        document.getElementById("btnEnter4").onclick = function() {
+            window.open('http://www.02298.com', "_blank");
+        }
     }
     function init() {
         enterLine();
